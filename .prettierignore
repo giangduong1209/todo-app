@@ -1,0 +1,5 @@
+*.ico
+*.png
+*.txt
+yarn.lock
+.gitignore
